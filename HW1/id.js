@@ -1,5 +1,4 @@
 function request() {
-  //김민정님의 코드를 클론 코딩함
   let num = document.getElementById("mid").value;
   if (isNaN(num)){//숫자가 아닌 경우
     switch(num) { //0.박정현 1.복무창 2.오민석 3.한규원 4.김도영 5.김준호 6.문희범
